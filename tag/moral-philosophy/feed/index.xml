@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>moral philosophy &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/moral-philosophy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>“Herman Bavinck’s Reformed Ethics” by Dirk van Keulen</title>
+		<link>/2015/12/herman-bavincks-reformed-ethics-by-dirk-van-keulen/</link>
+		<comments>/2015/12/herman-bavincks-reformed-ethics-by-dirk-van-keulen/#respond</comments>
+		<pubDate>Tue, 08 Dec 2015 19:52:29 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[2008 Bavinck Conference]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[moral philosophy]]></category>
+		<category><![CDATA[natural law]]></category>
+		<category><![CDATA[Reformed ethics]]></category>
+		<category><![CDATA[social ethics]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2372</guid>
+		<description><![CDATA[/wp-content/uploads/2015/12/bavinck-b3-2008-09-19.mp3 Dr. Dirk van Keulen, general editor of the works of A.A. van Ruler, lectured on “Herman Bavinck’s Reformed Ethics” (MP3) at the 2008 “Perl and Leaven” Bavinck conference. He delves into the various manuscripts at the Bavinck archives at Kampen and De VU and sheds an intriguing historical light on Bavinck’s lectures in ethics. &#8230; <p class="link-more"><a href="/2015/12/herman-bavincks-reformed-ethics-by-dirk-van-keulen/" class="more-link">Continue reading<span class="screen-reader-text"> "“Herman Bavinck’s Reformed Ethics” by Dirk van Keulen"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-2372-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2015/12/bavinck-b3-2008-09-19.mp3?_=2" /><a href="/wp-content/uploads/2015/12/bavinck-b3-2008-09-19.mp3">/wp-content/uploads/2015/12/bavinck-b3-2008-09-19.mp3</a></audio>
+<figure id="attachment_2374" style="width: 200px" class="wp-caption alignright"><a href="https://www.tukampen.nl/medewerkeronline/dvankeulen"><img class="size-medium wp-image-2374" src="/wp-content/uploads/2015/12/DirkVanKeulen-200x300.jpg" alt="Dr. Dirk van Keulen" width="200" height="300" srcset="/wp-content/uploads/2015/12/DirkVanKeulen-200x300.jpg 200w, /wp-content/uploads/2015/12/DirkVanKeulen.jpg 666w" sizes="(max-width: 200px) 100vw, 200px" /></a><figcaption class="wp-caption-text">Dr. Dirk van Keulen</figcaption></figure>
+<p><a href="https://www.tukampen.nl/medewerkeronline/dvankeulen">Dr. Dirk van Keulen</a>, general editor of the works of <a href="http://www.aavanruler.nl/achter-de-schermen/">A.A. van Ruler</a>, lectured on “Herman Bavinck’s Reformed Ethics” (<a href="/wp-content/uploads/2015/12/bavinck-b3-2008-09-19.mp3">MP3</a>) at the <a href="/resources/audio-lectures/pearl-and-leaven-conference-audio/">2008 “Perl and Leaven”</a> Bavinck conference. He delves into the various manuscripts at the Bavinck archives at Kampen and De VU and sheds an intriguing historical light on Bavinck’s lectures in ethics.</p>
+<p>A published version of Dr. van Keulen’s lecture, including illustrations of the manuscript, appears in the first volume of the <em>Review</em>: <a href="/wp-content/uploads/2010/04/Article-2-Van-Keulen.pdf">“Herman Bavinck’s Reformed Ethics: Some Remarks about Unpublished Manuscripts in the Libraries of Amsterdam and Kampen”</a></p>
+<p>An update on the ongoing English translation and publication of the <em>Reformed Ethics</em> will appear in vol. 6 of the <em>Review</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/12/herman-bavincks-reformed-ethics-by-dirk-van-keulen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="/wp-content/uploads/2015/12/bavinck-b3-2008-09-19.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

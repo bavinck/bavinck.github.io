@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wereldzee &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/wereldzee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Around the Old World Sea with English subtitles</title>
+		<link>/2016/01/around-the-old-world-sea/</link>
+		<comments>/2016/01/around-the-old-world-sea/#respond</comments>
+		<pubDate>Wed, 06 Jan 2016 20:06:20 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Abraham Kuyper]]></category>
+		<category><![CDATA[islam]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
+		<category><![CDATA[wereldzee]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2453</guid>
+		<description><![CDATA[Professor George Harinck’s eight-part documentary on Abraham Kuyper’s journey into the Mediterranean Islamic world is now available with English subtitles. In this intriguing series, produced by Martin Maat and Hans Hermans, Professor Harinck follows Kuyper’s footsteps through 16 countries around the Mediterranean Sea, examining the roots of present-day religious and socio-political conflict in light of Kuyper’s observations &#8230; <p class="link-more"><a href="/2016/01/around-the-old-world-sea/" class="more-link">Continue reading<span class="screen-reader-text"> "Around the Old World Sea with English subtitles"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><iframe src="https://player.vimeo.com/video/149378601" width="525" height="295" frameborder="0" title="Around the Old World Sea - 1: Romania &amp; Ukraine" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>Professor George Harinck’s <a href="/2014/10/wereldzee-george-harinck-follows-kuyper-ancient-ocean/">eight-part documentary</a> on Abraham Kuyper’s journey into the Mediterranean Islamic world <a href="https://vimeo.com/album/3715377">is now available with English subtitles</a>. In this intriguing series, produced by Martin Maat and Hans Hermans, Professor Harinck follows Kuyper’s footsteps through 16 countries around the Mediterranean Sea, examining the roots of present-day religious and socio-political conflict in light of Kuyper’s observations a century ago.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2016/01/around-the-old-world-sea/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

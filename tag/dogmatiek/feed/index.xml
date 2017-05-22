@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dogmatiek &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/dogmatiek/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>The outline of Bavinck’s Reformed Dogmatics</title>
+		<link>/2016/02/the-outline-of-bavincks-reformed-dogmatics/</link>
+		<comments>/2016/02/the-outline-of-bavincks-reformed-dogmatics/#respond</comments>
+		<pubDate>Wed, 17 Feb 2016 19:01:26 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[Bavinck Society]]></category>
+		<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[dogmatiek]]></category>
+		<category><![CDATA[Reformed dogmatics]]></category>
+		<category><![CDATA[sacra doctrina]]></category>
+		<category><![CDATA[systematic theology]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2567</guid>
+		<description><![CDATA[A reader of Bavinck’s Reformed Dogmatics: Abridged in One Volume recently asked me how to correlate the text of the abridgement with the unabridged translation. After mulling it over, I concluded that combining the subparagraph numbers and Bavinck’s original outline for the Gereformeerde dogmatiek (PDF; 89 KB) provided both a good answer to this practical &#8230; <p class="link-more"><a href="/2016/02/the-outline-of-bavincks-reformed-dogmatics/" class="more-link">Continue reading<span class="screen-reader-text"> "The outline of Bavinck’s Reformed Dogmatics"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a href="https://drive.google.com/file/d/0B6E66FhhpX9WeG04ZG53NGF1Vm8/view?usp=sharing"><img class="alignright wp-image-2569 size-medium" style="border-style: outset; border-size: 5px; border-color: #999999;" title="View Bavinck’s original outline for the Gereformeerde dogmatiek (PDF; 89 KB)" src="/wp-content/uploads/2016/02/Bavinck_Dogmatiek-e1455732159143-300x250.jpg" alt="View Bavinck’s original outline for the Gereformeerde dogmatiek (PDF; 89 KB)" width="300" height="250" srcset="/wp-content/uploads/2016/02/Bavinck_Dogmatiek-e1455732159143-300x250.jpg 300w, /wp-content/uploads/2016/02/Bavinck_Dogmatiek-e1455732159143.jpg 333w" sizes="(max-width: 300px) 100vw, 300px" /></a>A reader of Bavinck’s <a href="http://bakerpublishinggroup.com/books/reformed-dogmatics/314381"><em>Reformed Dogmatics: Abridged in One Volume</em></a> recently asked me how to correlate the text of the abridgement with the unabridged translation. After mulling it over, I concluded that combining the subparagraph numbers and <a href="https://drive.google.com/file/d/0B6E66FhhpX9WeG04ZG53NGF1Vm8/view?usp=sharing">Bavinck’s original outline for the <em>Gereformeerde dogmatiek</em></a> (PDF; 89 KB) provided both a good answer to this practical question and a boon to understanding the <em>Dogmatics</em> as a whole.</p>
+<p>The outline itself is refreshingly simple: three main points, traditional loci, traditional order. I share it here with the simple hope that it might provide a useful tool for enjoying the abridged or unabridged <em>Dogmatics</em> as an organic whole, a body of divinity.<sup id="fnref-2567-1"><a href="#fn-2567-1" rel="footnote">1</a></sup></p>
+<p>&nbsp;</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-2567-1">
+For more on Bavinck’s view of dogmatics as a synthetic whole, see his “<a href="/wp-content/uploads/2014/09/TBR5_06_Bavinck.pdf">The Pros and Cons of a Dogmatic System</a>,” translated by Nelson D. Kloosterman, <em>Bavinck Review</em> 5 (2014): 90–103.&#160;<a href="#fnref-2567-1" rev="footnote">&#8617;</a>
+</li>
+</ol>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2016/02/the-outline-of-bavincks-reformed-dogmatics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Calvin Seminary &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/calvin-seminary/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>2011 Bavinck Conference Schedule</title>
+		<link>/2011/05/2011-bavinck-conference-schedule/</link>
+		<comments>/2011/05/2011-bavinck-conference-schedule/#respond</comments>
+		<pubDate>Sat, 28 May 2011 15:35:54 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[2011 Bavinck Conference]]></category>
+		<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[Johan Herman Bavinck]]></category>
+		<category><![CDATA[Bavinck Conference]]></category>
+		<category><![CDATA[Calvin Seminary]]></category>
+
+		<guid isPermaLink="false">http://bavinck.calvinseminary.edu/?p=637</guid>
+		<description><![CDATA[We have added a new page dedicated to the upcoming 12–14 October 2011 international Bavinck conference at Calvin Seminary. The list of speakers and conference schedule have been posted, and further information regarding conference registration, accommodations, etc., will be added as soon as the details are finalized.]]></description>
+				<content:encoded><![CDATA[<p>We have added <a href="//bavinckinstitute.org/2011-bavinck-conference/">a new page</a> dedicated to the upcoming 12–14 October 2011 international Bavinck conference at Calvin Seminary. The <a href="//bavinckinstitute.org/2011-bavinck-conference/speakers/">list of speakers</a> and <a href="//bavinckinstitute.org/2011-bavinck-conference/schedule/">conference schedule</a> have been posted, and further information regarding conference registration, accommodations, etc., will be added as soon as the details are finalized.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/2011-bavinck-conference-schedule/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

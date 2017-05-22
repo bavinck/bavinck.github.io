@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>religious studies &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/religious-studies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>The Bavinck Review 4 (2013)</title>
+		<link>/2013/09/bavinck-review-4-2013/</link>
+		<comments>/2013/09/bavinck-review-4-2013/#comments</comments>
+		<pubDate>Thu, 19 Sep 2013 18:44:15 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[The Bavinck Review]]></category>
+		<category><![CDATA[ethics]]></category>
+		<category><![CDATA[insider movement]]></category>
+		<category><![CDATA[missiology]]></category>
+		<category><![CDATA[natural law]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
+		<category><![CDATA[Reformed]]></category>
+		<category><![CDATA[religion]]></category>
+		<category><![CDATA[religious studies]]></category>
+		<category><![CDATA[social ethics]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=1699</guid>
+		<description><![CDATA[The Bavinck Review 4 (2013) is now publicly available. Download (or send to Kindle) your free copy today!]]></description>
+				<content:encoded><![CDATA[<p><a href="//bavinckinstitute.org/review/tbr-4-2013/"><img class="alignright size-thumbnail wp-image-1601" alt="TBR4_cover" src="//dash.bavinckinstitute.org/wp-content/uploads/2013/07/TBR4_cover-150x150.jpg" width="150" height="150" /></a></p>
+<p><em>The Bavinck Review</em> 4 (2013) is now publicly available. <a href="//bavinckinstitute.org/review/tbr-4-2013/">Download</a> (or <a title="Learn how to send PDF files to Kindle" href="http://www.amazon.com/gp/sendtokindle" target="_blank">send to Kindle</a>) your free copy today!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/bavinck-review-4-2013/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

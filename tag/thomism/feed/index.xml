@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thomism &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/thomism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>The Bavinck Review 5 (2014) Released</title>
+		<link>/2014/09/bavinck-review-5-2014-released/</link>
+		<comments>/2014/09/bavinck-review-5-2014-released/#comments</comments>
+		<pubDate>Tue, 16 Sep 2014 14:48:19 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[The Bavinck Review]]></category>
+		<category><![CDATA[dogmatics]]></category>
+		<category><![CDATA[missions]]></category>
+		<category><![CDATA[nature and grace]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
+		<category><![CDATA[religion]]></category>
+		<category><![CDATA[Roman Catholicism]]></category>
+		<category><![CDATA[systematic theology]]></category>
+		<category><![CDATA[theology]]></category>
+		<category><![CDATA[Thomism]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=1876</guid>
+		<description><![CDATA[The Bavinck Institute at Calvin Seminary is pleased to release volume 5 of The Bavinck Review. The majors include: What Kuyper Saw and Thought: Abraham Kuyper’s Visit to the Holy Land — Bert de Vries The Missional Character of the (Herman and J. H.) Bavinck Tradition — John Bolt We Do Not Proceed into a &#8230; <p class="link-more"><a href="/2014/09/bavinck-review-5-2014-released/" class="more-link">Continue reading<span class="screen-reader-text"> "The Bavinck Review 5 (2014) Released"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a href="//bavinckinstitute.org/review/volume-5-2014/"><img class="alignright size-full wp-image-1873" src="//bavinckinstitute.org/wp-content/uploads/2014/09/TBR5_Cover.png" alt="The Bavinck Review 5 (2014)" width="200" height="300" /></a>The Bavinck Institute at Calvin Seminary is pleased to release <a href="//bavinckinstitute.org/review/volume-5-2014/">volume 5</a> of <cite>The Bavinck Review</cite>. The majors include:</p>
+<ol>
+<li>What Kuyper Saw and Thought: Abraham Kuyper’s Visit to the Holy Land — Bert de Vries</li>
+<li>The Missional Character of the (Herman and J. H.) Bavinck Tradition — John Bolt</li>
+<li>We Do Not Proceed into a Vacuum: J. H. Bavinck’s Missional Reading of Romans 1 — Gayle Doornbos</li>
+<li>An Adventure in Ecumenicity: A Review Essay of Berkouwer and Catholicism by Eduardo Echeverria — John Bolt</li>
+<li>The Pros and Cons of a Dogmatic System — Herman Bavinck, trans. Nelson D. Kloosterman</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/2014/09/bavinck-review-5-2014-released/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

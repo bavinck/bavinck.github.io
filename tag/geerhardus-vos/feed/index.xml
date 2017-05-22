@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Geerhardus Vos &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/geerhardus-vos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>“Herman Bavinck and Geerhardus Vos” — Prof. Dr. George Harinck</title>
+		<link>/2015/11/herman-bavinck-and-geerhardus-vos-prof-dr-george-harinck/</link>
+		<comments>/2015/11/herman-bavinck-and-geerhardus-vos-prof-dr-george-harinck/#respond</comments>
+		<pubDate>Mon, 16 Nov 2015 16:53:46 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[2008 Bavinck Conference]]></category>
+		<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[Dutch Calvinism]]></category>
+		<category><![CDATA[Geerhardus Vos]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
+		<category><![CDATA[Reformed dogmatics]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2320</guid>
+		<description><![CDATA[/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3 Prof. Harinck delivered this fascinating lecture (MP3) at the 2008 “Perl and Leaven” Bavinck conference. Enjoy! (Thanks to the Calvin Seminary IT department’s recovery of our former web server’s files, more great Bavinck conference lectures like this one are on the way, now in convenient MP3 format to boot. Stay tuned!)]]></description>
+				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-2320-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3?_=2" /><a href="/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3">/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3</a></audio>
+<figure id="attachment_2321" style="width: 144px" class="wp-caption alignright"><a href="http://www.godgeleerdheid.vu.nl/nl/over-de-faculteit/medewerkers/wetenschappelijk-personeel-g-l/harinck.aspx"><img class="size-full wp-image-2321" src="/wp-content/uploads/2015/11/GeorgeHarinck.jpg" alt="Prof. Dr. George Harinck" width="144" height="100" /></a><figcaption class="wp-caption-text">Prof. Dr. George Harinck</figcaption></figure>
+<p>Prof. Harinck delivered this fascinating lecture (<a href="/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3">MP3</a>) at the 2008 <a href="/resources/audio-lectures/pearl-and-leaven-conference-audio/">“Perl and Leaven” Bavinck conference</a>. Enjoy!</p>
+<p>(Thanks to the Calvin Seminary IT department’s recovery of our former web server’s files, more great Bavinck conference lectures like this one are on the way, now in convenient MP3 format to boot. Stay tuned!)</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/11/herman-bavinck-and-geerhardus-vos-prof-dr-george-harinck/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3" length="30237483" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- generator='jetpack-4.9' -->
+<?xml-stylesheet type='text/xsl' href='/news-sitemap.xsl'?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
+  <loc>/whos-who/</loc>
+  <lastmod>2017-05-22T17:17:18Z</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>The Bavinck Institute</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:title>Who’s Who?</news:title>
+    <news:publication_date>2017-05-22T17:16:25Z</news:publication_date>
+    <news:genres>Blog</news:genres>
+  </news:news>
+</url>
+<url>
+  <loc>/initiatives/</loc>
+  <lastmod>2017-05-22T17:28:42Z</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>The Bavinck Institute</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:title>Initiatives</news:title>
+    <news:publication_date>2017-05-22T17:06:31Z</news:publication_date>
+    <news:genres>Blog</news:genres>
+  </news:news>
+</url>
+<url>
+  <loc>/blog/</loc>
+  <lastmod>2017-05-22T16:41:51Z</lastmod>
+  <news:news>
+    <news:publication>
+      <news:name>The Bavinck Institute</news:name>
+      <news:language>en</news:language>
+    </news:publication>
+    <news:title>Blog</news:title>
+    <news:publication_date>2017-05-22T16:41:51Z</news:publication_date>
+    <news:genres>Blog</news:genres>
+  </news:news>
+</url>
+</urlset>

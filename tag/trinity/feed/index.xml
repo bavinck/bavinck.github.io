@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trinity &#8211; The Bavinck Institute</title>
+	<atom:link href="http://localhost/tag/trinity/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Promoting Reformed catholic scholarship in the tradition of Herman and J. H. Bavinck</description>
+	<lastBuildDate>Mon, 22 May 2017 19:27:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Trinity and Organism reviewed on Reformed Media Review</title>
+		<link>/2013/05/trinity-and-organism-reviewed-on-reformed-media-review/</link>
+		<comments>/2013/05/trinity-and-organism-reviewed-on-reformed-media-review/#respond</comments>
+		<pubDate>Wed, 22 May 2013 16:15:43 +0000</pubDate>
+		<dc:creator><![CDATA[laurence]]></dc:creator>
+				<category><![CDATA[Bavinck Society]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
+		<category><![CDATA[organicism]]></category>
+		<category><![CDATA[Reformed]]></category>
+		<category><![CDATA[trinity]]></category>
+
+		<guid isPermaLink="false">https://bavinckinstitute.org/?p=1511</guid>
+		<description><![CDATA[On a recent episode of the Reformed Media Review Rev. Carlton Wynne reviews Bavinck Society member Dr. James Eglinton’s Trinity and Organism: Towards a New Reading of Herman Bavinck’s Organic Motif (London: T&#38;T Clark, 2012). http://media.reformedforum.org/assets/download/web/audio/rmr67.mp3]]></description>
+				<content:encoded><![CDATA[<p><a title="Listen to this episode of the Reformed Media Review" href="http://reformedforum.org/podcasts/rmr67/"><img class="alignright size-full wp-image-1512" style="border: 1px solid black;" src="https://bavinckinstitute.org/wp-content/uploads/2013/05/TrinityandOrganism.jpg" alt="TrinityandOrganism" width="200" height="182" /></a>On a recent episode of the Reformed Media Review Rev. Carlton Wynne <a href="http://reformedforum.org/podcasts/rmr67/">reviews</a> Bavinck Society member Dr. James Eglinton’s <em><a href="http://www.bloomsbury.com/us/trinity-and-organism-9780567124784/">Trinity and Organism</a>: Towards a New Reading of Herman Bavinck’s Organic Motif </em>(London: T&amp;T Clark, 2012).</p>
+<audio class="wp-audio-shortcode" id="audio-1511-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.reformedforum.org/assets/download/web/audio/rmr67.mp3?_=2" /><a href="http://media.reformedforum.org/assets/download/web/audio/rmr67.mp3">http://media.reformedforum.org/assets/download/web/audio/rmr67.mp3</a></audio>
+]]></content:encoded>
+			<wfw:commentRss>/2013/05/trinity-and-organism-reviewed-on-reformed-media-review/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://media.reformedforum.org/assets/download/web/audio/rmr67.mp3" length="0" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
