@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/intercession/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:38:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -25,8 +25,7 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Bavinck Society]]></category>
 		<category><![CDATA[News]]></category>
-		<category><![CDATA[Christian life]]></category>
-		<category><![CDATA[faith]]></category>
+		<category><![CDATA[ethics]]></category>
 		<category><![CDATA[intercession]]></category>
 		<category><![CDATA[prayer]]></category>
 

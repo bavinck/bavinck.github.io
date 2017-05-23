@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/category/news/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:38:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -65,7 +65,7 @@
 		<pubDate>Sat, 05 Mar 2016 21:02:31 +0000</pubDate>
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[islam]]></category>
+		<category><![CDATA[Islam]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
 		<category><![CDATA[religion]]></category>
 		<category><![CDATA[world religions]]></category>
@@ -101,10 +101,10 @@
 				<category><![CDATA[2008 Bavinck Conference]]></category>
 		<category><![CDATA[News]]></category>
 		<category><![CDATA[apologetics]]></category>
-		<category><![CDATA[BB Warfield]]></category>
 		<category><![CDATA[epistemology]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[Scripture]]></category>
+		<category><![CDATA[Warfield]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2469</guid>
 		<description><![CDATA[https://archive.org/download/2008-bavinck-conference/bavinck-b6-2008-09-19.mp3 Prof. Dr. Henk van den Belt delivered the following lecture at the 2008 Bavinck Conference at Calvin Seminary in Grand Rapids, Michigan: “Autopistia, the Self-Convincing Character of Scripture in Herman Bavinck and Benjamin Warfield” (MP3). Dr. Raymond Blacketer is the respondent. Van den Belt surveys the similarities and differences between Bavinck and Warfield on &#8230; <p class="link-more"><a href="/2016/01/autopistia-the-self-convincing-character-of-scripture-in-h-bavinck-and-b-warfield-by-henk-van-den-belt/" class="more-link">Continue reading<span class="screen-reader-text"> "“Autopistia, the Self-Convincing Character of Scripture in H. Bavinck and B. Warfield” by Henk van den Belt"</span></a></p>]]></description>
@@ -135,10 +135,8 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
+		<category><![CDATA[dogmatics]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
-		<category><![CDATA[Reformed dogmatics]]></category>
-		<category><![CDATA[systematic theology]]></category>
-		<category><![CDATA[theology]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2457</guid>
 		<description><![CDATA[If you are thinking about&#160;reading the one-volume Reformed Dogmatics abridgement in 2016, be sure to check out the Herman Bavinck reading group&#160;organized by The Daily Genevan and Providence Presbyterian. Membership is open to the public. You may participate in the discussions&#160;or simply enjoy the collegiality of reading with a cohort.]]></description>
@@ -155,8 +153,8 @@
 		<pubDate>Wed, 06 Jan 2016 20:06:20 +0000</pubDate>
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[News]]></category>
-		<category><![CDATA[Abraham Kuyper]]></category>
-		<category><![CDATA[islam]]></category>
+		<category><![CDATA[Islam]]></category>
+		<category><![CDATA[Kuyper]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
 		<category><![CDATA[wereldzee]]></category>
 
@@ -176,8 +174,7 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Bavinck Society]]></category>
 		<category><![CDATA[News]]></category>
-		<category><![CDATA[Christian life]]></category>
-		<category><![CDATA[faith]]></category>
+		<category><![CDATA[ethics]]></category>
 		<category><![CDATA[intercession]]></category>
 		<category><![CDATA[prayer]]></category>
 
@@ -217,8 +214,7 @@
 		<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
 		<category><![CDATA[education]]></category>
-		<category><![CDATA[neo-cal]]></category>
-		<category><![CDATA[philosophy of education]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2019</guid>
 		<description><![CDATA[The Bavinck Institute congratulates Society member Hanniel Strebel, whose fine Olivet University PhD dissertation on Herman Bavinck’s philosophy of education has been published: Eine Theologie des Lernens: Systematisch-theologische Beiträge aus dem Werk von Herman Bavinck [A theology of learning: systematic-theological contributions from the work of Herman Bavinck] (Bonn: VKW, 2014). Dr. Strebel provides the following abstract: This study is the first &#8230; <p class="link-more"><a href="/2015/11/dissertation-published-eine-theologie-des-lernens-by-hanniel-strebel/" class="more-link">Continue reading<span class="screen-reader-text"> "Dissertation published: Eine Theologie des Lernens by Hanniel Strebel"</span></a></p>]]></description>
@@ -244,8 +240,7 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
-		<category><![CDATA[Christian life]]></category>
-		<category><![CDATA[Christianity]]></category>
+		<category><![CDATA[ethics]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
 		<category><![CDATA[Reformed]]></category>
 

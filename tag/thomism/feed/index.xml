@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/thomism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:38:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,8 +31,6 @@
 		<category><![CDATA[neo-Calvinism]]></category>
 		<category><![CDATA[religion]]></category>
 		<category><![CDATA[Roman Catholicism]]></category>
-		<category><![CDATA[systematic theology]]></category>
-		<category><![CDATA[theology]]></category>
 		<category><![CDATA[Thomism]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=1876</guid>

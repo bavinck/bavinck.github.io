@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/vatican-ii/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:38:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -25,12 +25,12 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[2008 Bavinck Conference]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
-		<category><![CDATA[G. C. Berkouwer]]></category>
-		<category><![CDATA[Herman Dooyeweerd]]></category>
+		<category><![CDATA[Aquinas]]></category>
+		<category><![CDATA[Berkouwer]]></category>
+		<category><![CDATA[Dooyeweerd]]></category>
 		<category><![CDATA[nature and grace]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
 		<category><![CDATA[Roman Catholicism]]></category>
-		<category><![CDATA[Thomas Aquinas]]></category>
 		<category><![CDATA[Vatican II]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2328</guid>
