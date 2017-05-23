@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/reformed-epistemology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 07:33:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,10 +31,10 @@
 		<category><![CDATA[Reformed epistemology]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2679</guid>
-		<description><![CDATA[/wp-content/uploads/2016/05/bavinck-plenaryc-2008-09-19.mp3 Nicholas Wolterstorff, Noah Porter Professor Emeritus of Philosophical Theology at Yale Divinity School, delivered this plenary lecture at the the 2008 Bavinck Conference at Calvin Seminary. In the lecture Professor Wolterstorff explains what Reformed epistemology is, articulates the places in Herman Bavinck’s thought where related themes appear (at ~39:45), and points out the affinities between Bavinck’s &#8230; <p class="link-more"><a href="/2016/05/herman-bavinck-reformed-epistemology-nicholas-wolterstorff/" class="more-link">Continue reading<span class="screen-reader-text"> "“Herman Bavinck and Reformed Epistemology” by Nicholas Wolterstorff"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-2679-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/05/bavinck-plenaryc-2008-09-19.mp3?_=2" /><a href="/wp-content/uploads/2016/05/bavinck-plenaryc-2008-09-19.mp3">/wp-content/uploads/2016/05/bavinck-plenaryc-2008-09-19.mp3</a></audio>
+		<description><![CDATA[https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3 Nicholas Wolterstorff, Noah Porter Professor Emeritus of Philosophical Theology at Yale Divinity School, delivered this plenary lecture at the the 2008 Bavinck Conference at Calvin Seminary. In the lecture Professor Wolterstorff explains what Reformed epistemology is, articulates the places in Herman Bavinck’s thought where related themes appear (at ~39:45), and points out the affinities between Bavinck’s &#8230; <p class="link-more"><a href="/2016/05/herman-bavinck-reformed-epistemology-nicholas-wolterstorff/" class="more-link">Continue reading<span class="screen-reader-text"> "“Herman Bavinck and Reformed Epistemology” by Nicholas Wolterstorff"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-2679-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3?_=2" /><a href="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3">https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3</a></audio>
 <figure id="attachment_2677" style="width: 212px" class="wp-caption alignright"><a href="http://religiousstudies.yale.edu/people/nicholas-wolterstorff"><img class="wp-image-2677 size-medium" src="/wp-content/uploads/2016/05/NicholasWolterstorff-212x300.jpg" alt="Nicholas Wolterstorff" width="212" height="300" srcset="/wp-content/uploads/2016/05/NicholasWolterstorff-212x300.jpg 212w, /wp-content/uploads/2016/05/NicholasWolterstorff.jpg 424w" sizes="(max-width: 212px) 100vw, 212px" /></a><figcaption class="wp-caption-text">Nicholas Wolterstorff</figcaption></figure>
-<p><a href="http://religiousstudies.yale.edu/people/nicholas-wolterstorff">Nicholas Wolterstorff</a>, Noah Porter Professor Emeritus of Philosophical Theology at Yale Divinity School, delivered this plenary lecture at the <a href="//bavinckinstitute.org/resources/audio-lectures/pearl-and-leaven-conference-audio/">the 2008 Bavinck Conference</a> at Calvin Seminary.</p>
+<p><a href="http://religiousstudies.yale.edu/people/nicholas-wolterstorff">Nicholas Wolterstorff</a>, Noah Porter Professor Emeritus of Philosophical Theology at Yale Divinity School, delivered this plenary lecture at the <a href="/resources/audio-lectures/pearl-and-leaven-conference-audio/">the 2008 Bavinck Conference</a> at Calvin Seminary.</p>
 <p>In the lecture Professor Wolterstorff</p>
 <ul>
 <li>explains what Reformed epistemology is,</li>
@@ -55,7 +55,7 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2016/05/herman-bavinck-reformed-epistemology-nicholas-wolterstorff/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
-<enclosure url="/wp-content/uploads/2016/05/bavinck-plenaryc-2008-09-19.mp3" length="50417686" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>
 	</channel>
 </rss>

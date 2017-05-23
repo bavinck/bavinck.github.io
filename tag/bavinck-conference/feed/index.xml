@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/bavinck-conference/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 07:33:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -31,7 +31,7 @@
 
 		<guid isPermaLink="false">http://bavinck.calvinseminary.edu/?p=637</guid>
 		<description><![CDATA[We have added a new page dedicated to the upcoming 12–14 October 2011 international Bavinck conference at Calvin Seminary. The list of speakers and conference schedule have been posted, and further information regarding conference registration, accommodations, etc., will be added as soon as the details are finalized.]]></description>
-				<content:encoded><![CDATA[<p>We have added <a href="//bavinckinstitute.org/2011-bavinck-conference/">a new page</a> dedicated to the upcoming 12–14 October 2011 international Bavinck conference at Calvin Seminary. The <a href="//bavinckinstitute.org/2011-bavinck-conference/speakers/">list of speakers</a> and <a href="//bavinckinstitute.org/2011-bavinck-conference/schedule/">conference schedule</a> have been posted, and further information regarding conference registration, accommodations, etc., will be added as soon as the details are finalized.</p>
+				<content:encoded><![CDATA[<p>We have added <a href="/2011-bavinck-conference/">a new page</a> dedicated to the upcoming 12–14 October 2011 international Bavinck conference at Calvin Seminary. The <a href="/2011-bavinck-conference/speakers/">list of speakers</a> and <a href="/2011-bavinck-conference/schedule/">conference schedule</a> have been posted, and further information regarding conference registration, accommodations, etc., will be added as soon as the details are finalized.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/2011/05/2011-bavinck-conference-schedule/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
