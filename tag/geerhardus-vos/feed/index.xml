@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/geerhardus-vos/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 18:38:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -25,10 +25,10 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[2008 Bavinck Conference]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[dogmatics]]></category>
 		<category><![CDATA[Dutch Calvinism]]></category>
 		<category><![CDATA[Geerhardus Vos]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
-		<category><![CDATA[Reformed dogmatics]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2320</guid>
 		<description><![CDATA[https://archive.org/download/2008-bavinck-conference/bavinck-b1-2008-09-19.mp3 Prof. Harinck delivered this fascinating lecture (MP3) at the 2008 “Perl and Leaven” Bavinck conference. Enjoy! (Thanks to the Calvin Seminary IT department’s recovery of our former web server’s files, more great Bavinck conference lectures like this one are on the way, now in convenient MP3 format to boot. Stay tuned!)]]></description>
