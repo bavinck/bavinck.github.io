@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/polemics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Tue, 23 May 2017 07:33:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 May 2017 08:20:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -32,10 +32,10 @@
 		<category><![CDATA[systematic theology]]></category>
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2643</guid>
-		<description><![CDATA[/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3 This plenary session panel discussion (MP3; 70 MB) with Professors John Bolt, Gordon Graham, and J. Mark Beach is from the 2008 Bavinck Conference at Calvin Seminary. Professor Bolt’s lecture, “Herman Bavinck’s recipe for theological cake,” begins at ~16:00. Professor Graham’s lecture, “Bavinck’s Philosophy of Revelation,” begins at ~42:00. Professor Beach’s lecture, “Can’t We &#8230; <p class="link-more"><a href="/2016/03/herman-bavinck-speaks-today/" class="more-link">Continue reading<span class="screen-reader-text"> "“Herman Bavinck Speaks Today” — John Bolt, Gordon Graham, J. Mark Beach"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-2643-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3?_=2" /><a href="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3">/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3</a></audio>
+		<description><![CDATA[https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3 This plenary session panel discussion (MP3; 70 MB) with Professors John Bolt, Gordon Graham, and J. Mark Beach is from the 2008 Bavinck Conference at Calvin Seminary. Professor Bolt’s lecture, “Herman Bavinck’s recipe for theological cake,” begins at ~16:00. Professor Graham’s lecture, “Bavinck’s Philosophy of Revelation,” begins at ~42:00. Professor Beach’s lecture, “Can’t We &#8230; <p class="link-more"><a href="/2016/03/herman-bavinck-speaks-today/" class="more-link">Continue reading<span class="screen-reader-text"> "“Herman Bavinck Speaks Today” — John Bolt, Gordon Graham, J. Mark Beach"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<audio class="wp-audio-shortcode" id="audio-2643-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3?_=2" /><a href="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3">https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3</a></audio>
 <figure id="attachment_2658" style="width: 150px" class="wp-caption alignright"><a href="http://www.calvinseminary.edu/about/faculty/john-bolt/" rel="attachment wp-att-2658"><img class="size-thumbnail wp-image-2658" src="/wp-content/uploads/2016/03/John-Bolt-150x150.jpg" alt="Professor John Bolt" width="150" height="150" srcset="/wp-content/uploads/2016/03/John-Bolt-150x150.jpg 150w, /wp-content/uploads/2016/03/John-Bolt-100x100.jpg 100w, /wp-content/uploads/2016/03/John-Bolt.jpg 186w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption class="wp-caption-text">John Bolt</figcaption></figure>
-<p>This plenary session panel discussion (<a href="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3">MP3</a>; 70 MB) with Professors <a href="http://www.calvinseminary.edu/about/faculty/john-bolt/">John Bolt</a>, <a href="http://www.ptsem.edu/index.aspx?id=6331">Gordon Graham</a>, and <a href="http://www.midamerica.edu/faculty/mark-beach">J. Mark Beach</a> is from <a href="//bavinckinstitute.org/resources/audio-lectures/pearl-and-leaven-conference-audio/">the 2008 Bavinck Conference</a> at Calvin Seminary.</p>
+<p>This plenary session panel discussion (<a href="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3">MP3</a>; 70 MB) with Professors <a href="http://www.calvinseminary.edu/about/faculty/john-bolt/">John Bolt</a>, <a href="http://www.ptsem.edu/index.aspx?id=6331">Gordon Graham</a>, and <a href="http://www.midamerica.edu/faculty/mark-beach">J. Mark Beach</a> is from <a href="/resources/audio-lectures/pearl-and-leaven-conference-audio/">the 2008 Bavinck Conference</a> at Calvin Seminary.</p>
 <ul>
 <li>Professor Bolt’s lecture, “Herman Bavinck’s recipe for theological cake,” begins at ~16:00.</li>
 <li>Professor Graham’s lecture, “Bavinck’s <em>Philosophy of Revelation</em>,” begins at ~42:00.</li>
@@ -54,6 +54,7 @@
 			<wfw:commentRss>/2016/03/herman-bavinck-speaks-today/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3" length="69706133" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3" length="0" type="audio/mpeg" />
 		</item>
 	</channel>
 </rss>
