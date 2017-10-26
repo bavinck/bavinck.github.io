@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/scripture/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Fri, 23 Jun 2017 22:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>“Autopistia, the Self-Convincing Character of Scripture in H. Bavinck and B. Warfield” by Henk van den Belt</title>
 		<link>/2016/01/autopistia-the-self-convincing-character-of-scripture-in-h-bavinck-and-b-warfield-by-henk-van-den-belt/</link>
@@ -51,6 +51,8 @@
 		<slash:comments>0</slash:comments>
 <enclosure url="/wp-content/uploads/2016/01/bavinck-b6-2008-09-19.mp3" length="0" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b6-2008-09-19.mp3" length="0" type="audio/mpeg" />
+<enclosure url="/wp-content/uploads/2016/01/bavinck-b6-2008-09-19.mp3" length="0" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b6-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>
 		<item>
 		<title>“God’s Word in Servant Form” by Richard Gaffin</title>
@@ -74,6 +76,8 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2016/01/gods-word-in-servant-form-by-richard-gaffin/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="/wp-content/uploads/2016/01/bavinck-b5-2008-09-19.mp3" length="0" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b5-2008-09-19.mp3" length="0" type="audio/mpeg" />
 <enclosure url="/wp-content/uploads/2016/01/bavinck-b5-2008-09-19.mp3" length="0" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b5-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>

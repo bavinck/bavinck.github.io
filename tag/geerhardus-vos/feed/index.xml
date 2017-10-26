@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/geerhardus-vos/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Fri, 23 Jun 2017 22:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>“Herman Bavinck and Geerhardus Vos” — Prof. Dr. George Harinck</title>
 		<link>/2015/11/herman-bavinck-and-geerhardus-vos-prof-dr-george-harinck/</link>
@@ -39,6 +39,8 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2015/11/herman-bavinck-and-geerhardus-vos-prof-dr-george-harinck/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3" length="30237483" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b1-2008-09-19.mp3" length="0" type="audio/mpeg" />
 <enclosure url="/wp-content/uploads/2015/11/harinck-bavinck-b1-2008-09-19.mp3" length="30237483" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b1-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>

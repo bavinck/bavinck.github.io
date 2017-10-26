@@ -1,18 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- generator='jetpack-5.0' -->
-<?xml-stylesheet type='text/xsl' href='/news-sitemap.xsl'?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url>
-  <loc>/2017/06/bavinck-special-collection-grand-opening-presentation/</loc>
-  <lastmod>2017-06-23T22:13:33Z</lastmod>
-  <news:news>
-    <news:publication>
-      <news:name>The Bavinck Institute</news:name>
-      <news:language>en</news:language>
-    </news:publication>
-    <news:title>Bavinck Special Collection Grand Opening Presentation</news:title>
-    <news:publication_date>2017-06-23T22:13:33Z</news:publication_date>
-    <news:genres>Blog</news:genres>
-  </news:news>
-</url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<!--generator='jetpack-5.4'-->
+<?xml-stylesheet type="text/xsl" href="/news-sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"/>

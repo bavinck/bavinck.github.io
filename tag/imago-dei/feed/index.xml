@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/imago-dei/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Fri, 23 Jun 2017 22:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>Herman Bavinck on the imago Dei — Nelson D. Kloosterman</title>
 		<link>/2015/03/herman-bavinck-on-the-imago-dei-nelson-d-kloosterman/</link>
@@ -35,6 +35,7 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2015/03/herman-bavinck-on-the-imago-dei-nelson-d-kloosterman/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="http://s3.amazonaws.com/WRIaudio/Conference+Addresses/2013.03.13.X+06+-+Imago+Dei+-+Man+-+Dr.+Nelson+Kloosterman+-+41131319241.mp3" length="34742438" type="audio/mpeg" />
 <enclosure url="http://s3.amazonaws.com/WRIaudio/Conference+Addresses/2013.03.13.X+06+-+Imago+Dei+-+Man+-+Dr.+Nelson+Kloosterman+-+41131319241.mp3" length="34742438" type="audio/mpeg" />
 		</item>
 		<item>
