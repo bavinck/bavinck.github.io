@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/modernity/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Fri, 23 Jun 2017 22:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>“Herman Bavinck Speaks Today” — John Bolt, Gordon Graham, J. Mark Beach</title>
 		<link>/2016/03/herman-bavinck-speaks-today/</link>
@@ -53,6 +53,8 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2016/03/herman-bavinck-speaks-today/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3" length="69706133" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3" length="0" type="audio/mpeg" />
 <enclosure url="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3" length="69706133" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3" length="0" type="audio/mpeg" />
 		</item>

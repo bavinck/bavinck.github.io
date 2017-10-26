@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/neo-calvinism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Fri, 23 Jun 2017 22:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
 	<item>
 		<title>Bavinck Special Collection Grand Opening Presentation</title>
 		<link>/2017/06/bavinck-special-collection-grand-opening-presentation/</link>
@@ -92,6 +92,7 @@
 			<wfw:commentRss>/2016/09/context-bavincks-1908-princeton-stone-lectures-james-bratt/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryb-2008-09-19.mp3" length="0" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryb-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>
 		<item>
 		<title>“Herman Bavinck and Reformed Epistemology” by Nicholas Wolterstorff</title>
@@ -132,6 +133,7 @@
 			<wfw:commentRss>/2016/05/herman-bavinck-reformed-epistemology-nicholas-wolterstorff/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3" length="0" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenaryc-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>
 		<item>
 		<title>“Herman Bavinck Speaks Today” — John Bolt, Gordon Graham, J. Mark Beach</title>
@@ -169,6 +171,8 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2016/03/herman-bavinck-speaks-today/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3" length="69706133" type="audio/mpeg" />
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3" length="0" type="audio/mpeg" />
 <enclosure url="/wp-content/uploads/2016/03/bavinck-plenarya-2008-09-18.mp3" length="69706133" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-plenarya-2008-09-18.mp3" length="0" type="audio/mpeg" />
 		</item>
@@ -239,6 +243,7 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2016/02/religion-mission-and-kingdom-a-comparison-of-herman-bavinck-and-johan-herman-bavinck-by-paul-visser/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b9-2008-09-20.mp3" length="0" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b9-2008-09-20.mp3" length="0" type="audio/mpeg" />
 		</item>
 		<item>
@@ -323,6 +328,7 @@
 ]]></content:encoded>
 			<wfw:commentRss>/2016/02/herman-bavinck-on-catholicity-by-barend-kamphuis/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b8-2008-09-19.mp3" length="0" type="audio/mpeg" />
 <enclosure url="https://archive.org/download/2008-bavinck-conference/bavinck-b8-2008-09-19.mp3" length="0" type="audio/mpeg" />
 		</item>
 	</channel>
