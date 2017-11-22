@@ -12,20 +12,21 @@
 	<atom:link href="http://localhost/tag/education/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Fri, 23 Jun 2017 22:13:33 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Nov 2017 18:29:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8</generator>
+	<generator>https://wordpress.org/?v=4.9</generator>
 	<item>
 		<title>Dissertation published: Eine Theologie des Lernens by Hanniel Strebel</title>
 		<link>/2015/11/dissertation-published-eine-theologie-des-lernens-by-hanniel-strebel/</link>
 		<comments>/2015/11/dissertation-published-eine-theologie-des-lernens-by-hanniel-strebel/#respond</comments>
-		<pubDate>Wed, 11 Nov 2015 18:49:47 +0000</pubDate>
+		<pubDate>Wed, 11 Nov 2015 13:49:47 +0000</pubDate>
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Bavinck Society]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[education]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
 
@@ -52,6 +53,7 @@
 		<pubDate>Fri, 06 Sep 2013 17:43:19 +0000</pubDate>
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[dogmatics]]></category>
 		<category><![CDATA[education]]></category>
 		<category><![CDATA[pedagogy]]></category>
@@ -78,6 +80,7 @@
 				<category><![CDATA[Bavinck Society]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[education]]></category>
 		<category><![CDATA[Reformed]]></category>
 

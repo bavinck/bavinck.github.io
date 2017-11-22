@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/imitatio-christi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Nov 2017 18:29:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<generator>https://wordpress.org/?v=4.9</generator>
 	<item>
 		<title>John Bolt’s Dissertation on Bavinck’s Two Essays on the Imitatio Christi</title>
 		<link>/2013/06/john-bolts-dissertation-on-bavincks-two-essays-on-the-imitatio-christi/</link>
@@ -25,6 +25,7 @@
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[ethics]]></category>
 		<category><![CDATA[imitatio Christi]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>

@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/category/bavinck-society/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Nov 2017 18:29:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<generator>https://wordpress.org/?v=4.9</generator>
 	<item>
 		<title>Bavinck Special Collection Grand Opening Presentation</title>
 		<link>/2017/06/bavinck-special-collection-grand-opening-presentation/</link>
@@ -132,7 +132,7 @@ For more on Bavinck’s view of dogmatics as a synthetic whole, see his “<a hr
 
 		<guid isPermaLink="false">https://bavinckinstitute.org/?p=2361</guid>
 		<description><![CDATA[If you have had the privilege of crossing paths with Bavinck Society member Tim Kerr, it is likely that two things characterized your experience: first, you came away deeply encouraged in the faith; second, you were prayed for sincerely before you departed. In hopes of further multiplying this privilege, the Bavinck Institute is pleased to call your attention to &#8230; <p class="link-more"><a href="/2015/12/take-words-with-you-by-tim-kerr/" class="more-link">Continue reading<span class="screen-reader-text"> "Take Words with You by Tim Kerr"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_2367" style="width: 150px" class="wp-caption alignright"><a href="http://sovgraceto.org/meet-our-pastor/"><img class="wp-image-2367 size-thumbnail" src="/wp-content/uploads/2015/12/tim_kerr-e1449526733496-150x150.jpg" alt="Pastor Tim Kerr" width="150" height="150" srcset="/wp-content/uploads/2015/12/tim_kerr-e1449526733496-150x150.jpg 150w, /wp-content/uploads/2015/12/tim_kerr-e1449526733496-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption class="wp-caption-text">Pastor Tim Kerr</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_2367" style="max-width: 150px" class="wp-caption alignright"><a href="http://sovgraceto.org/meet-our-pastor/"><img class="wp-image-2367 size-thumbnail" src="/wp-content/uploads/2015/12/tim_kerr-e1449526733496-150x150.jpg" alt="Pastor Tim Kerr" width="150" height="150" srcset="/wp-content/uploads/2015/12/tim_kerr-e1449526733496-150x150.jpg 150w, /wp-content/uploads/2015/12/tim_kerr-e1449526733496-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" /></a><figcaption class="wp-caption-text">Pastor Tim Kerr</figcaption></figure>
 <p>If you have had the privilege of crossing paths with Bavinck Society member <a href="http://sovgraceto.org/meet-our-pastor/">Tim Kerr</a>, it is likely that two things characterized your experience: first, you came away deeply encouraged in the faith; second, you were prayed for sincerely before you departed.</p>
 <p><a href="http://www.takewordswithyou.com/"><img class="alignleft size-medium wp-image-2362" src="/wp-content/uploads/2015/12/take-words-with-you-207x300.png" alt="take-words-with-you" width="207" height="300" srcset="/wp-content/uploads/2015/12/take-words-with-you-207x300.png 207w, /wp-content/uploads/2015/12/take-words-with-you.png 345w" sizes="(max-width: 207px) 100vw, 207px" /></a>In hopes of further multiplying this privilege, the Bavinck Institute is pleased to call your attention to the 5th edition of Pastor Kerr’s <em><a href="http://www.takewordswithyou.com/">Take Words with You: Scripture Promises &amp; Prayers / A Manual for Intercession</a></em> (2015). In this work Pastor Kerr uses a simple five-step method to help believers to pray regularly, both individually and corporately, according to God’s promises and prayers in Holy Scripture (1 John 5:14).</p>
 <p>To borrow a line from Herman Bavinck (<em>RD </em>4:225), this manual puts into practice the rock solid biblical teaching that believers in Jesus Christ</p>
@@ -160,11 +160,12 @@ For more on Bavinck’s view of dogmatics as a synthetic whole, see his “<a hr
 		<title>Dissertation published: Eine Theologie des Lernens by Hanniel Strebel</title>
 		<link>/2015/11/dissertation-published-eine-theologie-des-lernens-by-hanniel-strebel/</link>
 		<comments>/2015/11/dissertation-published-eine-theologie-des-lernens-by-hanniel-strebel/#respond</comments>
-		<pubDate>Wed, 11 Nov 2015 18:49:47 +0000</pubDate>
+		<pubDate>Wed, 11 Nov 2015 13:49:47 +0000</pubDate>
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Bavinck Society]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[education]]></category>
 		<category><![CDATA[neo-Calvinism]]></category>
 
@@ -233,6 +234,7 @@ For more on Bavinck’s view of dogmatics as a synthetic whole, see his “<a hr
 				<category><![CDATA[Bavinck Society]]></category>
 		<category><![CDATA[Herman Bavinck]]></category>
 		<category><![CDATA[News]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[education]]></category>
 		<category><![CDATA[Reformed]]></category>
 

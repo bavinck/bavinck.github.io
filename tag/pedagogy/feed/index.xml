@@ -12,11 +12,11 @@
 	<atom:link href="http://localhost/tag/pedagogy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Reformed catholic theology in the tradition of Herman and J. H. Bavinck</description>
-	<lastBuildDate>Thu, 26 Oct 2017 19:09:31 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Nov 2017 18:29:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<generator>https://wordpress.org/?v=4.9</generator>
 	<item>
 		<title>Dissertation notice: “Pedagogy as Theological Praxis”</title>
 		<link>/2013/09/dissertation-notice-pedagogy-theological-praxis/</link>
@@ -24,6 +24,7 @@
 		<pubDate>Fri, 06 Sep 2013 17:43:19 +0000</pubDate>
 		<dc:creator><![CDATA[laurence]]></dc:creator>
 				<category><![CDATA[Herman Bavinck]]></category>
+		<category><![CDATA[dissertation]]></category>
 		<category><![CDATA[dogmatics]]></category>
 		<category><![CDATA[education]]></category>
 		<category><![CDATA[pedagogy]]></category>
